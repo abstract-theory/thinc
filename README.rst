@@ -2,7 +2,7 @@
 Thinc
 =====
 
-THINC stands for THINC is not C. It is a programming language that compiles into C and C++. In more technical words, it is a syntactical variant of C and C++ that uses indentation instead of curly brackets. Practically, everything you already know about C and C++ can be applied to THINC, and those proficient with C/C++ will find it has a very low learning curve.
+THINC stands for THINC is not C++. It is a programming language that compiles into C and C++. In more technical words, it is a syntactical variant of C and C++ that uses indentation instead of curly brackets. Practically, everything you already know about C and C++ can be applied to THINC, and those proficient with C/C++ will find it has a very low learning curve.
 
 Two-Way Compiler
 ----------------
@@ -30,7 +30,7 @@ The type of open-source license is yet to be determined. It will be something al
 Examples
 ========
 
-Below are snippets of C and C++ code along with the equivilent snippet of THINC code.
+Below are snippets of C and C++ code along with the equivalent snippet of THINC code.
 
 Hello World with a for loop
 -----------------------------
