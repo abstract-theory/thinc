@@ -21,10 +21,6 @@ The syntax is similar to that of Python's. It is probably best illustrated by th
 * Do-while loops place the "while" directly after the "do".
 * Commenting style is the same as in C and C++.
 
-========
-License
-========
-The type of open-source license is yet to be determined. It will be something along the lines of GPL or Apache. If you're so inclined, make a pull request.
 
 ========
 Examples
